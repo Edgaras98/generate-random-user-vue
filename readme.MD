@@ -1,12 +1,13 @@
 📡 Random user generating tool
 
-<h1>Why?</h1>
+<h3>Why?</h3>
 This project was made for Vue.js practice purposes ONLY.
 
-###How to fire this?
-Live server
+<h3>How to fire this?<h3>
+  
+use you localhost --> Live server plugin is quite handy
 
-###Free open source API
+<h3>API<h3>
 
 https://randomuser.me/api
 
