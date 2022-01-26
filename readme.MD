@@ -1,6 +1,6 @@
 📡 Random user generating tool
 
-###Why?
+<h1>Why?</h1>
 This project was made for Vue.js practice purposes ONLY.
 
 ###How to fire this?
