@@ -5,7 +5,7 @@ This project was made for Vue.js practice purposes ONLY.
 
 <h3>How to fire this?<h3>
   
-use you localhost --> Live server plugin is quite handy
+use your localhost --> Live server plugin is quite handy
 
 <h3>API<h3>
 
